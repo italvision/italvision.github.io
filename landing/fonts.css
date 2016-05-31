@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'Chivo';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Chivo'), local('Chivo-Regular'), url(chivo_400.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'Chivo';
+    font-style: normal;
+    font-weight: 900;
+    src: local('Chivo Black'), local('Chivo-Black'), url(chivo_900.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'Chivo';
+    font-style: italic;
+    font-weight: 400;
+    src: local('Chivo-Italic'), url(chivo_ital_40.woff) format('woff');
+}
+
+
