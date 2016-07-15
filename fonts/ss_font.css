@@ -16,8 +16,14 @@
   font-weight: 700;
   src: local('Source Sans Pro Bold'), local('SourceSansPro-Bold'), url(ss_bold.woff) format('woff');
 }
-@font-face {
+/*@font-face {
   font-family: 'DIN Condensed Web';
+  font-style: normal;
+  font-weight: 400;
+  src: local('DIN Condensed Web'), local('DINCondensedWeb'), url(din.woff) format('woff');
+}*/
+@font-face {
+  font-family: 'din-condensed-web';
   font-style: normal;
   font-weight: 400;
   src: local('DIN Condensed Web'), local('DINCondensedWeb'), url(din.woff) format('woff');
